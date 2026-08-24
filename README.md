@@ -4,8 +4,8 @@ A python game where the player must search for a sewer rat in a grid(matrix) and
 
 # how to play 
 
-the game is based on a grid (matrix) with hidden elements.the player must:
-find the sewer rat in the grid 
+The player must:
+find the sewer rat 
 then find his job 
 complete both objectives within a limited number of attempts  
 
